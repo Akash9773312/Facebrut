@@ -1,0 +1,5 @@
+#bin/python
+#codded by Akash Mishra
+
+pip install mechanize
+pkg install wget
